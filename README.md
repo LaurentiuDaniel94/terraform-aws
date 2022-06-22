@@ -1,3 +1,4 @@
 # terraform-aws
 
-![image](https://user-images.githubusercontent.com/104257185/174973081-c0db55c4-6a1f-4cc9-a785-2ca496cffac6.png)
+
+<img width="906" alt="Screenshot 2022-06-22 at 11 02 07" src="https://user-images.githubusercontent.com/104257185/174976778-7f0ec89f-93e2-4f51-88b0-f1d435b4831a.png">
